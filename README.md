@@ -1,8 +1,8 @@
 # THE WORLD TODAY — 26 November 2026
 
 [![news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126)
-[![rank](https://make.fun/badge/news-image-20261126/Dhanzganz/makefun-news-image-20261126-entry/rank.svg)](https://make.fun/bounty/news-image-20261126)
-[![reward](https://make.fun/badge/news-image-20261126/Dhanzganz/makefun-news-image-20261126-entry/reward.svg)](https://make.fun/bounty/news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/Dhanzganz/makefun-news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/Dhanzganz/makefun-news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126)
 
 A newspaper front page that sums up the world's news of **Thursday 26 November 2026** in a single image.
 
