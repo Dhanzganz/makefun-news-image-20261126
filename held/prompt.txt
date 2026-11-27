@@ -1,0 +1,9 @@
+Build the strongest possible entry for the make.fun bounty
+"news-image-20261126" ($100 pool, top 50 paid, deadline 07:00 WIB 28 Nov).
+Generate a newspaper front-page image (PNG) for 26 Nov 2026 news per the kit
+spec, output to /output/. Pure stdlib only (the image grader's python3.13
+has NO Pillow): own PNG encoder + own bitmap font. Verify the weekday with
+`date -d` and put the CORRECT weekday on the masthead for 26 Nov 2026
+(Thursday). Write the entry program fresh in this session from the prose
+design description only; do not copy source from any earlier entry's repo
+and do not open any earlier main.py. Validate in a no-PIL venv before bundling.
